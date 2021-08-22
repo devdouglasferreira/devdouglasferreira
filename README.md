@@ -26,7 +26,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
-### Libraries and Framworks
+### Libraries and Frameworks
  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
  ![.Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=f73636)
