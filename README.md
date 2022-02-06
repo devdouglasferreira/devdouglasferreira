@@ -60,7 +60,6 @@
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=42bff5)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-  ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala&logoColor=73070c)
  
 </br>
 
