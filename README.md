@@ -68,7 +68,7 @@
 <p align="center">
 <a href="https://github.com/devdouglasferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdouglasferreira&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdouglasferreira&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdouglasferreira&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devdouglasferreira&theme=merko"/>
 </a>
 </p>
