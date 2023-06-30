@@ -11,7 +11,7 @@
 - 🎼 I play some instruments like Guitar and Drums in my free time
 - 🎓 BEng in Computer Engineering on progress
 - 🧑‍💻 Software Developer since 2017, Back-End most time
-- 💼 Currently working at <a href="https://www.itau.com.br">Itaú Unibanco</a>
+- 💼 Currently working at <a href="https://ciandt.com/br/pt-br">Ci&T</a>
 
 </br>
 
