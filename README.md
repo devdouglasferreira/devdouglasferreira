@@ -1,6 +1,7 @@
 # Hi there 👋 I am Douglas Ferreira
 
 <p align="center">
+<a href="https://www.instagram.com/ddrferreira/"><img src="https://img.shields.io/badge/-@ddrferreira-333333?style=flat-square&logo=instagram"/></a>
 <a href="https://discord.com/users/703745014953672744"><img src="https://img.shields.io/badge/-SneakyJaguar%239622-333333?style=flat-square&logo=discord"/></a>
 <a href="https://steamcommunity.com/id/douglasdrf/"><img src="https://img.shields.io/badge/-DouglasDRF-333333?style=flat-square&logo=steam"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=douglasdrf&label=Douglas's%20Profile%20Views&color=135429&style=flat"/> </p>
@@ -11,7 +12,7 @@
 - 🎼 I play some instruments like Guitar and Drums in my free time
 - 🎓 BEng in Computer Engineering on progress
 - 🧑‍💻 Software Developer since 2017, Back-End most time
-- 💼 Currently working at <a href="https://ciandt.com/br/pt-br">Ci&T</a>
+- 💼 Currently working at <a href="https://ciandt.com/br/pt-br">CI&T</a>
 
 </br>
 
