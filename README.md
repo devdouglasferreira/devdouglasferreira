@@ -1,7 +1,6 @@
 # Hi there 👋 I am Douglas Ferreira
 
 <p align="center">
-<a href="https://www.instagram.com/ddrferreira/"><img src="https://img.shields.io/badge/-@ddrferreira-333333?style=flat-square&logo=instagram"/></a>
 <a href="https://discord.com/users/703745014953672744"><img src="https://img.shields.io/badge/-SneakyJaguar%239622-333333?style=flat-square&logo=discord"/></a>
 <a href="https://steamcommunity.com/id/douglasdrf/"><img src="https://img.shields.io/badge/-DouglasDRF-333333?style=flat-square&logo=steam"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=douglasdrf&label=Douglas's%20Profile%20Views&color=135429&style=flat"/> </p>
@@ -66,7 +65,7 @@
 <p align="center">
 <a href="https://github.com/devdouglasferreira">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devdouglasferreira&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdouglasferreira&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdouglasferreira&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devdouglasferreira&theme=merko"/>
 </a>
 </p>
