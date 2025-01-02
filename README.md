@@ -64,9 +64,8 @@
 
 <p align="center">
 <a href="https://github.com/devdouglasferreira">
-  <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devdouglasferreira&count_private=true&show_icons=true&theme=merko&show=reviews" />
-  <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdouglasferreira&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devdouglasferreira&theme=merko"/>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devdouglasferreira&count_private=true&show_icons=true&theme=merko&show=reviews" />
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdouglasferreira&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
 </a>
 </p>
 
