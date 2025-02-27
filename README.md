@@ -9,9 +9,10 @@
 
 - 🎮 Passionate about games (playing and trying code one)
 - 🎼 I play some instruments like Guitar and Drums in my free time
-- 🎓 BEng in Computer Engineering on progress
+- 🎓 BEng in Computer Engineering
+- 🎓 MSc in Eletrical Engineering, Computational Intelligence (on course)
 - 🧑‍💻 Software Developer since 2017, Back-End most time
-- 💼 Currently working at <a href="https://ciandt.com/br/pt-br">CI&T</a>
+- 💼 Currently working at <a href="[https://ciandt.com/br/pt-br](https://br.nttdata.com/)">NTT Data</a>
 
 </br>
 
